@@ -9,7 +9,13 @@ redirect_from:
 
 ## About Me
 
+<img src="/images/personal.jpg"
+     alt="Research overview"
+     style="float: left; margin: 0 20px 15px 0; width: 220px;">
+
 Hi, I’m **Zhedong Lin**, an MSc student in **Artificial Intelligence** at the **University of Auckland**. I received my undergraduate degree in **Computer Science and Technology** from **Southwest University** in 2024. I am currently working under the guidance of **Prof. Jiamou Liu**, and my research focuses on **LLMs**, **multimodal generative AI**, and applications such as **text-to-image systems**, **image editing**, and **controllable diffusion models**. If you are interested in my research or would like to discuss potential collaboration, feel free to contact me at **zlin629@aucklanduni.ac.nz**.
+
+<div style="clear: both;"></div>
 
 ---
 
