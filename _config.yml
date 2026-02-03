@@ -23,12 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Zhedong Lin"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China-Fujian / Newzealand-Auckland"
-  employer         : "Red Brick University"
   uri              : # URL
   email            : "zlin629@aucklanduni.ac.nz" 
 
