@@ -25,8 +25,7 @@ author:
   # Biographic information
   avatar           : "personal.jpg"
   name             : "Zhedong Lin"
-  pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/him" 
   location         : "China-Fujian / Newzealand-Auckland"
   uri              : # URL
   email            : "zlin629@aucklanduni.ac.nz" 
