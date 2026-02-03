@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-<img src="/images/personal.jpg"
+<img src="/images/profile.png"
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 220px;">
 
