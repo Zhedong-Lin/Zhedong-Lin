@@ -46,7 +46,7 @@ My work aims to advance the capabilities of AI in generating consistent, high-qu
 ---
 📄 **Narratology Meets Text-to-Image: A Survey of Consistency in AI Generated Storybook Illustrations**  
 **Zhedong Lin**, Zhongsheng Wang, Qian Liu, Xinyu Zhang, Jiamou Liu  
-Artificial Intelligence Review (Springer, SCI Q1 Top), 2026  
+Artificial Intelligence Review (JCR Q1, SCI Q1 Top), 2026  
 [Paper](https://link.springer.com/article/10.1007/s10462-025-11482-6)
 
 📄 **CharCom: Composable Identity Control for Multi-Character Story Illustration**  
