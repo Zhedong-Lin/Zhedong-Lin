@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-<img src="{{ site.baseurl }}/images/profile.png"
+<img src="https://zhedong-lin.github.io/Zhedong-Lin//images/profile.png"
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 220px;">
 
