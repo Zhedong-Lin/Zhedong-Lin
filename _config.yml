@@ -21,7 +21,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://zhedong-lin.github.io/Zhedong-Lin//images/profile.png"
-  name             : "Zhedong Lin"
   pronouns         : # example: "he/him" 
   location         : "China / New Zealand"
   uri              : # URL
