@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-<img src="/images/profile.png"
+<img src="{{ site.baseurl }}/images/profile.png"
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 220px;">
 
@@ -35,8 +35,8 @@ My work aims to advance the capabilities of AI in generating consistent, high-qu
 ## News and Updates
 
 - **2026.01:** 🎉 One paper was accepted by **Artificial Intelligence Review** (SCI Q1 Top).  
-- **2025.12:** 🏆 Won the **Best Multimedia Award** at **ACM MM Asia**.  
-- **2025.10:** 🏆 I received the **China Scholarship Council (CSC) Full Scholarship** for my PhD studies at **University of Auckland**, starting in 2026.  
+- **2025.12:** 🎉 Won the **Best Multimedia Award** at **ACM MM Asia**.  
+- **2025.10:** 🎉 I received the **China Scholarship Council (CSC) Full Scholarship** for my PhD studies at **University of Auckland**, starting in 2026.  
 - **2025.10:** 🎉 One paper was accepted by **ACM MM Asia** (CCF-C).  
 - **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from **Southwest University (SWU)**, and awarded **Outstanding Graduate** honor.
 
@@ -48,6 +48,3 @@ My work aims to advance the capabilities of AI in generating consistent, high-qu
 - **University of Auckland High Achiever Scholarship**  
 - **Outstanding Graduate** at Southwest University  
 - **Best Multimedia Award** – **ACM Multimedia Asia 2025**
-
----
-
