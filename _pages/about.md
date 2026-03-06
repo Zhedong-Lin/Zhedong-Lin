@@ -36,7 +36,7 @@ My work aims to advance the capabilities of AI in generating consistent, high-qu
 
 - **2026.01:** 🎉 One paper was accepted by **Artificial Intelligence Review** (SCI Q1 Top).  
 - **2025.12:** 🎉 Won the **Best Multimedia Award** at **ACM MM Asia**.  
-- **2025.10:** 🎉 I received the **China Scholarship Council (CSC) Full Scholarship** for my PhD studies at **University of Auckland**, starting in 2026.  
+- **2025.10:** 🎓 I received the **China Scholarship Council (CSC) Full Scholarship** for my PhD studies at **University of Auckland**, starting in 2026.  
 - **2025.10:** 🎉 One paper was accepted by **ACM MM Asia** (CCF-C).  
 - **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from **Southwest University (SWU)**, and awarded **Outstanding Graduate** honor.
 
@@ -58,6 +58,17 @@ ACM Multimedia Asia 2025 (CCF-C, Best Multimedia Award)
 ## Awards & Honors
 
 - **China Scholarship Council (CSC)** Full Scholarship  
-- **University of Auckland High Achiever Scholarship**  
+- **University of Auckland High Achiever Scholarship**
+- **First in Course Award**
 - **Outstanding Graduate** at Southwest University  
 - **Best Multimedia Award** – **ACM Multimedia Asia 2025**
+
+
+## Teaching
+
+- **Teaching Assistant**, COMPSCI 120: *Mathematics for Computer Science*  
+
+
+
+
+
