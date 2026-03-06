@@ -59,7 +59,7 @@ ACM Multimedia Asia 2025 (CCF-C, Best Multimedia Award)
 
 - **China Scholarship Council (CSC)** Full Scholarship  
 - **University of Auckland High Achiever Scholarship**
-- **First in Course Award**
+- **University of Auckland First in Course Award**
 - **Outstanding Graduate** at Southwest University  
 - **Best Multimedia Award** – **ACM Multimedia Asia 2025**
 
